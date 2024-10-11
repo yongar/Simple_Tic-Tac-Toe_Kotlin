@@ -7,6 +7,9 @@ files:
   - name: test/TicTacToeTest.java
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/123/stages/656/implement#comment
-status: Unchecked
-record: -1
+feedback_link: https://hyperskill.org/learn/step/10477#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 11 Oct 2024 15:55:04 UTC"
+record: 3
